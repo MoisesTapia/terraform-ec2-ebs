@@ -10,14 +10,14 @@
 
 ## This infra Build the follow features
 
-- [x] 2 - VPC
-- [x] 2 - Subnte
-- [x] 4 - instance type t2.micro
-- [x] 2 - Privates instances
-- [x] 2 - Public instances 
+- [x] 1 - VPC
+- [x] 1 - Subnte
+- [x] 1 - instance type t2.micro
+- [X] 1 - EBS
+- [x] 1 - Public instances 
 - [X] 1 - ineternet gateway
 - [X] 1 - route tables
-- [X] 2 - Security Groups
+- [X] 1 - Security Groups
 
 # Graph
 
@@ -25,7 +25,7 @@
 
 ## Graph model
 
-![Map](https://github.com/MoisesTapia/terraform-multinstance/blob/master/images/DiagramInfra.png)
+![Map](https://github.com/MoisesTapia/terraform-ec2-ebs/blob/developer/images/EBS-EC2-Diagram.png)
 
 
 # Verify the infra with inspec
