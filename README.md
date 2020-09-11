@@ -10,14 +10,12 @@
 
 ## This infra Build the follow features
 
-- [x] 1 - VPC
-- [x] 1 - Subnte
-- [x] 1 - instance type t2.micro
-- [X] 1 - EBS
-- [x] 1 - Public instances 
-- [X] 1 - ineternet gateway
-- [X] 1 - route tables
-- [X] 1 - Security Groups
+
+
+| VPC | Subnet | Instances | EBS | Internet Gateway | Route Tables | Security Group |
+| :-- | :----: | --------: | :-- | :--------------: | -----------: |  ------------: |
+|  1  |   1    |    1      |  1  |        1         |       1      |        1       |
+ 
 
 # Graph
 
